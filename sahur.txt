@@ -1,3 +1,2 @@
 requests
 mechanize
-requests mechanize
